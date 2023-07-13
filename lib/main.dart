@@ -95,7 +95,10 @@ class _MyHomePageState extends State<MyHomePage> {
               onChanged: searchBlogs,
               decoration: InputDecoration(
                 labelText: 'Search',
-                border: OutlineInputBorder(),
+                icon: Icon(Icons.search),
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
               ),
             ),
           ),
