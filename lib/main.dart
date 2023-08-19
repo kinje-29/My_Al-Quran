@@ -77,13 +77,15 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      // backgroundColor: darkBlue,
       appBar: AppBar(
-        title: Text(
-          widget.title,
-          style: const TextStyle(
-            fontSize: 20,
-            color: Color.fromARGB(255, 0, 0, 0),
-          ),
+        backgroundColor: Color(0xff696969),
+        title: Text('AL-Quran Indonesia'),
+        leading: IconButton(
+          icon: Icon(Icons.menu),
+          onPressed: () {
+            // Tindakan yang dijalankan saat ikon ditekan
+          },
         ),
       ),
       body: Column(
