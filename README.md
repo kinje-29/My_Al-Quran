@@ -1,10 +1,10 @@
 # Tugas Akhir Prakerja
 
 ## Gambar Awal
-![gambar/Awal.jpg](gambar/Awal.jpg)
+![gambar/satu.jpg](gambar/satu.jpg)
 
 ## Gambar Kedua
-![gambar/Kedua.jpg](gambar/Kedua.jpg)
+![gambar/dua.jpg](gambar/dua.jpg)
 
 ## Gambar Tiga
-![gambar/Tiga.jpg](gambar/Tiga.jpg)
+![gambar/tiga.jpg](gambar/tiga.jpg)
